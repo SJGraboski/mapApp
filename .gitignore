@@ -34,3 +34,6 @@ node_modules
 
 # Don't put the server stuff up
 server.js
+
+# Don't put bower stuff up either
+bower_components
